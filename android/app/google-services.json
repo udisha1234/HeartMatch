@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970096409107",
+    "project_id": "heartmatch-5186a",
+    "storage_bucket": "heartmatch-5186a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970096409107:android:1c826954a58ff5cfe69de6",
+        "android_client_info": {
+          "package_name": "com.example.heartmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn111hR6km-n_boC0WCJdkWLfwb81F9s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
